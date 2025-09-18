@@ -40,7 +40,7 @@ public class HelloWorldExercises {
         System.out.println("ž".codePointAt(0)); // encuentra el punto de código es 382
         System.out.println((char) 382); // genera ž en la consola intellij con codificación utf-8
 
-        // 9. Intenta ejecutar el programa sin el método main y observa el error.
+        /* 9. Intenta ejecutar el programa sin el metodo main y observa el error. */
         // Ni siquiera deja ejecutar.
 
         //10. Intenta cambiar el nombre del archivo a uno diferente del de la clase y compílalo. ¿Qué pasa?
